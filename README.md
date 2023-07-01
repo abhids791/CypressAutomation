@@ -1,3 +1,3 @@
 # CypressAutomation
-My first Repo
+My first Repository
 My first Commit
